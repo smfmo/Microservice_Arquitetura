@@ -1,6 +1,6 @@
-# Microserviço com Spring Boot e MySQL
+# Microserviço com Spring Boot e PostgreSQL
 
-Este repositório contém um microserviço desenvolvido com **Spring Boot**, **MySQL**, **JPA** e **Swagger** para gerenciamento de usuários.
+Este repositório contém um microserviço desenvolvido com **Spring Boot**, **PostgreSQL**, **JPA** e **Swagger** para gerenciamento de usuários.
 
 ## 🚀 Tecnologias Utilizadas
 - **Java 21**
